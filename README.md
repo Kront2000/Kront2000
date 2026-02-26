@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Андрей — Student | Frontend Developer (Next.js)</h1>
+<h1 align="center">Янич Андрей — Student | Frontend Developer (Next.js)</h1>
 
 
 
