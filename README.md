@@ -115,5 +115,5 @@ Landing + базовая админ-логика.
 - Глубокое понимание JavaScript (Event Loop, замыкания, прототипы)
 - React rendering & reconciliation
 - Оптимизация производительности
-- SEO и оптимизация изображений в Next.js
+
 
