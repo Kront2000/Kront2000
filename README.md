@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="300" width="600" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzIxMDkwMjIsIm5iZiI6MTc3MjEwODcyMiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjI2VDEyMjUyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUxZWRlM2NhYjQ4NjlkNzMwODE5NWViNTZlYzU4ZDJhODJmYmQ1NmE0NzM2ZDJlZTFjZTczMWEwYTg2MTA5OWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.t2SqHRm9-0cdZcmb4qMMfnP5NMkRy6wZs7uEPYL1wGA"  />
 </div>
 
 ###
@@ -50,7 +50,7 @@
 ### Backend (внутри Next.js)
 - Route Handlers
 - Prisma ORM
-- PostgreSQL (Neon)
+- PostgreSQL 
 
 ### Хранение файлов
 - Cloudflare R2
@@ -58,15 +58,62 @@
 ### Аутентификация
 - NextAuth (базовая реализация)
 
+</br>
 
+# 🧩 Проекты
 
+## 🍔 Food Delivery — Fullstack Web Application
 
+Полноценное fullstack-приложение доставки еды.
 
-###
+### Архитектура
+- App Router
+- Server & Client Components
+- Server Actions
+- Prisma + PostgreSQL
+- Типобезопасность от БД до UI
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filimonovalexey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=filimonovalexey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### Реализованный функционал
+- CRUD товаров и категорий (админ-панель)
+- Сохранение корзины (Zustand + localStorage)
+- Отправка заказа через Telegram Bot API
+- Валидация форм через Zod
+- Обработка пользовательских данных (телефон, адрес, комментарии и т.д.)
+- Хранение изображений в Cloudflare R2
+- Адаптивная верстка (responsive, vw/cqw, брейкпоинты)
 
-###
+Проект написан полностью на TypeScript.
+
+---
+
+## 🐾 Veterinary Clinic Website
+
+Landing + базовая админ-логика.
+
+- Next.js (App Router)
+- Tailwind CSS
+- CRUD функциональность
+- Адаптивная верстка
+- Чистая компонентная архитектура
+- Route Handlers
+
+---
+
+# 🧠 Подход к разработке
+
+- Работаю с официальной документацией
+- Строю структуру проекта осознанно
+- Стараюсь разделять ответственность компонентов
+- Использую строгую типизацию
+- Понимаю разницу между клиентскими и серверными компонентами
+- Работаю с реальной БД, а не моками
+
+---
+
+# 📚 В процессе углубления
+
+- Глубокое понимание JavaScript (Event Loop, замыкания, прототипы)
+- React rendering & reconciliation
+- Оптимизация производительности
+- SEO и оптимизация изображений в Next.js
+
