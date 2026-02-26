@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Андрей — Frontend Developer (Next.js)</h1>
+<h1 align="center">Андрей — Student | Frontend Developer (Next.js)</h1>
 
 
 
@@ -44,7 +44,7 @@
 ### Аутентификация
 - NextAuth (базовая реализация)
 
-</br>
+
 
 # 🧩 Проекты
 
@@ -60,7 +60,7 @@
 - Типобезопасность от БД до UI
  
 ### Стек:
-- Next.js 14/15 (App Router)
+- Next.js (App Router)
 - Tailwind CSS
 - Zustand
 - Prisma
@@ -81,8 +81,6 @@
 - Интеграция с Telegram Bot API для мгновенного уведомления о заказах.
 - Админ-панель с полным циклом управления контентом (Images via R2).
 - Оптимизация: использование Server Components для уменьшения JS-бандла на клиенте.
-  
-Проект написан полностью на TypeScript.
 
 ---
 
