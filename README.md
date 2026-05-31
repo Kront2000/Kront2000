@@ -81,7 +81,7 @@ Landing page ветеринарной клиники с базовой адми�
   
 ---
 
-## ☕ Java / Spring Boot [GitHub](https://github.com/Kront2000/JavaFoodDilivery)
+## ☕ Java / Spring Boot [GitHub](https://github.com/Kront2000/kfc-menu-demo)
 Проекты, написанные во время изучения бэкенд-разработки (см. репозитории). Дали мне крепкий фундамент в проектировании баз данных и REST API.
 
 ---
