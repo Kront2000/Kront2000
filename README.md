@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Янич Андрей — Student | Frontend Developer (Next.js)</h1>
+<h1 align="center">Янич Андрей — Student | Frontend Developer (Nuxt.js)</h1>
 
 
 
@@ -14,85 +14,75 @@
 
 ###
 
-<p align="left">Разрабатываю fullstack-приложения на базе Next.js (App Router). Активно развиваюсь в современной веб-разработке.
+<p align="left">Разрабатываю fullstack-приложения на базе Nuxt.js. Работал с React / Next.js, но в последнее время перешел на Vue / Nuxt 3 Активно развиваюсь в современной веб-разработке.
   Фокус — архитектура, типобезопасность и production-подход к разработке.</p>
 
 
 # ⚙️ Технологии и инструменты
 
 ### Frontend
+- Nuxt 4 / Vue.js
 - Next.js (App Router)
-- React
 - TypeScript (полная типизация проекта)
-- Tailwind CSS
-- shadcn/ui
-- Lucide Icons
-- Zustand (state management)
+- Tailwind CSS, Nuxt UI, shadcn/ui
 
 ### Формы и валидация
 - React Hook Form
 - Zod (строгая схема валидации)
 
-### Backend (внутри Next.js)
-- Route Handlers
-- Prisma ORM
-- PostgreSQL 
-
-### Хранение файлов
+### Backend (внутри Nuxt.js / Next.js)
+- Drizzle ORM / Prisma
 - Cloudflare R2
+- PostgreSQL
+- Route Handlers / Server Actions (Next.js), Nuxt API Routes
 
-### Аутентификация
-- NextAuth (базовая реализация)
-
-
+### Прочее
+- Интеграция сторонних API (например, Telegram Bot API)
+- Базовая аутентификация (NextAuth, NuxtAuthUtils)
 
 # 🧩 Проекты
 
-## 🍔 Food Delivery — Fullstack Web Application
+## 🔄 LoopIt (В разработке)
 
-Полноценное fullstack-приложение доставки еды.
+Переосмысление традиционных ToDo-приложений с архитектурой, вдохновленной циклом событий Node.js (Event Loop).
 
-### Архитектура
-- App Router
-- Server & Client Components
-- Server Actions
-- Prisma + PostgreSQL
-- Типобезопасность от БД до UI
- 
-### Стек:
-- Next.js (App Router)
-- Tailwind CSS
-- Zustand
-- Prisma
-- PostgreSQL (Neon)
-- Cloudflare R2.
-
-### Реализованный функционал
-- CRUD товаров и категорий (админ-панель)
-- Сохранение корзины (Zustand + localStorage)
-- Отправка заказа через Telegram Bot API
-- Валидация форм через Zod
-- Обработка пользовательских данных (телефон, адрес, комментарии и т.д.)
-- Хранение изображений в Cloudflare R2
-- Адаптивная верстка (responsive, vw/cqw, брейкпоинты)
-
-### Ключевые фичи: 
-- Реализован Type-safe API с использованием Zod.
-- Интеграция с Telegram Bot API для мгновенного уведомления о заказах.
-- Админ-панель с полным циклом управления контентом (Images via R2).
-- Оптимизация: использование Server Components для уменьшения JS-бандла на клиенте.
+- **Стек:** Nuxt 4, NuxtUI, Vue, Tailwind, Drizzle ORM, NuxtHub (Postgres), NuxtAuthUtils, Zod.
+- **Особенности:** Разделение задач на микро/макро таски, стек вызовов. Авторизация сессий, использование базы данных neon.
 
 ---
 
-## 🐾 Veterinary Clinic Website
+## 🛒 ITL B2C E-commerce
 
-Landing + базовая админ-логика.
+Тестовое задание для стажировки. Разработка фронтенд части каталога товаров к готовой бэкенд части.
 
-- Next.js (App Router)
-- Tailwind CSS
-- CRUD функциональность
-- Адаптивная верстка
-- Route Handlers
+- **Стек:** Nuxt 4, Vue, Nuxt UI, Tailwind.
+
+- **Особенности:** Сложная фильтрация полностью связанная с url, пагинация, SSR-рендеринг, динамический роутинг каталога и карточек товаров, адаптивная верстка, работа со сторонними API-эндпоинтами.
+
+---
+
+## 🍔 Food Delivery — Fullstack Web Application [GitHub](https://github.com/Kront2000/NextFoodDeliverySite) [Demo](https://nextfood-delivery-site.vercel.app/)
+
+Полноценное fullstack-приложение доставки еды.
+
+- **Стек:** Next.js (App Router), Tailwind, Zustand, Prisma, PostgreSQL, Cloudflare R2.
+
+- **Особенности:** хранение изображений в S3 (Cloudflare R2), интеграция с Telegram Bot API для моментального уведомления о заказах, валидация данных заказа (Zod + React Hook Form),
+  
+---
+
+## 🐾 Veterinary Clinic Website [GitHub](https://github.com/Kront2000/NextVetClinic) [Demo](https://next-vet-clinic.vercel.app/)
+
+Landing page ветеринарной клиники с базовой админ-логикой (первый проект на Next.js).
+
+- **Стек:** Next.js (App Router), Tailwind CSS, Prisma
+
+- **Особенности:** Адаптивная верстка, SSR, управление базовым контентом услуг через Route Handlers.
+  
+---
+
+## ☕ Java / Spring Boot [GitHub](https://github.com/Kront2000/JavaFoodDilivery)
+Проекты, написанные во время изучения бэкенд-разработки (см. репозитории). Дали мне крепкий фундамент в проектировании баз данных и REST API.
 
 ---
 
@@ -105,5 +95,6 @@ Landing + базовая админ-логика.
 - Понимаю разницу между клиентскими и серверными компонентами
 - Работаю с реальной БД, а не моками
 
-
+# ✉️ Контакты
+[💬 Написать в Telegram](https://t.me/KRONT2000)
 
