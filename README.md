@@ -42,7 +42,7 @@
 
 # 🧩 Проекты
 
-## 🔄 LoopIt (В разработке)
+## 🔄 LoopIt (В разработке) [GitHub](https://github.com/Kront2000/NuxtLoopIt) [Demo](https://nuxt-loop-l2eqj3ufw-andreys-projects-7b2444ea.vercel.app/) 
 
 Переосмысление традиционных ToDo-приложений с архитектурой, вдохновленной циклом событий Node.js (Event Loop).
 
@@ -51,7 +51,7 @@
 
 ---
 
-## 🛒 ITL B2C E-commerce
+## 🛒 ITL B2C E-commerce [GitHub](https://github.com/Kront2000/itl_andrey)
 
 Тестовое задание для стажировки. Разработка фронтенд части каталога товаров к готовой бэкенд части.
 
