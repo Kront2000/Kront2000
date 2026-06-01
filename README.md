@@ -51,7 +51,7 @@
 
 ---
 
-## 🛒 ITL B2C E-commerce [GitHub](https://github.com/Kront2000/itl_andrey)
+## 🛒 ITL B2C E-commerce [GitHub](https://github.com/Kront2000/itl_andrey) [Demo](https://itl-andrey.vercel.app/)
 
 Тестовое задание для стажировки. Разработка фронтенд части каталога товаров к готовой бэкенд части.
 
