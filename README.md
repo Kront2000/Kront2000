@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Янич Андрей — Student | Frontend Developer (Nuxt.js)</h1>
+<h1 align="center">Янич Андрей — Student | Frontend Developer (React / Next.js)</h1>
 
 
 
@@ -14,53 +14,29 @@
 
 ###
 
-<p align="left">Frontend-разработчик с глубоким фокусом на экосистему Vue / Nuxt 3 & 4 и строгую типобезопасность (TypeScript). Имею опыт создания fullstack-приложений (Next.js, Nuxt).
-
-Хорошо понимаю разницу между клиентским и серверным рендерингом (SSR), умею проектировать архитектуру приложений и работать с реальными базами данных (PostgreSQL, Drizzle, Prisma). Изучение Java/Spring Boot дало мне крепкий фундамент в понимании REST API и проектировании архитектуры бэкенда. Не использую моки там, где можно поднять полноценную БД.</p>
+<p align="left">Frontend-разработчик с фокусом на reactJS, Next.js. Имею опыт создания fullstack-приложений. Хорошо понимаю разницу между клиентским и серверным рендерингом (SSR), умею проектировать архитектуру приложений и работать с реальными базами данных (PostgreSQL, Drizzle, Prisma). Не использую моки там, где можно поднять полноценную БД.</p>
 
 
 # ⚙️ Технологии и инструменты
 
 ### Frontend
-- Nuxt 4 / Vue.js
 - Next.js (App Router)
-- TypeScript (полная типизация проекта)
+- TypeScript
 - Tailwind CSS, Nuxt UI, shadcn/ui
+- wNuxt 4 / Vue.js
 
 ### Формы и валидация
 - React Hook Form
 - Zod (строгая схема валидации)
 
-### Backend (внутри Nuxt.js / Next.js)
-- Drizzle ORM / Prisma
-- Cloudflare R2
+### Backend (Next.js)
+- Prisma
 - PostgreSQL
-- Route Handlers / Server Actions (Next.js), Nuxt API Routes
-
-### Прочее
+- Route Handlers / Server Actions (Next.js)
 - Интеграция сторонних API (например, Telegram Bot API)
-- Базовая аутентификация (NextAuth, NuxtAuthUtils)
+- Базовая аутентификация (NextAuth)
 
 # 🧩 Проекты
-
-## 🔄 LoopIt (В разработке) [GitHub](https://github.com/Kront2000/NuxtLoopIt) [Demo](https://nuxt-loop-l2eqj3ufw-andreys-projects-7b2444ea.vercel.app/) 
-
-Переосмысление традиционных ToDo-приложений с архитектурой, вдохновленной циклом событий Node.js (Event Loop).
-
-- **Стек:** Nuxt 4, NuxtUI, Vue, Tailwind, Drizzle ORM, NuxtHub (Postgres), NuxtAuthUtils, Zod.
-- **Особенности:** Разделение задач на микро/макро таски, стек вызовов. Авторизация сессий, использование базы данных neon.
-
----
-
-## 🛒 ITL B2C E-commerce [GitHub](https://github.com/Kront2000/itl_andrey) [Demo](https://itl-andrey.vercel.app/)
-
-Тестовое задание для стажировки. Разработка фронтенд части каталога товаров к готовой бэкенд части.
-
-- **Стек:** Nuxt 4, Vue, Nuxt UI, Tailwind.
-
-- **Особенности:** Сложная фильтрация полностью связанная с url, пагинация, SSR-рендеринг, динамический роутинг каталога и карточек товаров, адаптивная верстка, работа со сторонними API-эндпоинтами.
-
----
 
 ## 🍔 Food Delivery — Fullstack Web Application [GitHub](https://github.com/Kront2000/NextFoodDeliverySite) [Demo](https://nextfood-delivery-site.vercel.app/)
 
@@ -72,18 +48,13 @@
   
 ---
 
-## 🐾 Veterinary Clinic Website [GitHub](https://github.com/Kront2000/NextVetClinic) [Demo](https://next-vet-clinic.vercel.app/)
+## 🛒 ITL B2C E-commerce [GitHub](https://github.com/Kront2000/itl_andrey) [Demo](https://itl-andrey.vercel.app/)
 
-Landing page ветеринарной клиники с базовой админ-логикой (первый проект на Next.js).
+Тестовое задание для стажировки. Разработка фронтенд части каталога товаров к готовой бэкенд части.
 
-- **Стек:** Next.js (App Router), Tailwind CSS, Prisma
+- **Стек:** Nuxt 4, Vue, Nuxt UI, Tailwind.
 
-- **Особенности:** Адаптивная верстка, SSR, управление базовым контентом услуг через Route Handlers.
-  
----
-
-## ☕ Java / Spring Boot [GitHub](https://github.com/Kront2000/kfc-menu-demo)
-Проекты, написанные во время изучения бэкенд-разработки (см. репозитории). Дали мне крепкий фундамент в проектировании баз данных и REST API.
+- **Особенности:** Сложная фильтрация полностью связанная с url, пагинация, SSR-рендеринг, динамический роутинг каталога и карточек товаров, адаптивная верстка, работа со сторонними API-эндпоинтами.
 
 ---
 
