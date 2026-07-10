@@ -6,67 +6,37 @@
 
 ###
 
-<h1 align="center">Янич Андрей — Student | Frontend Developer (React / Next.js)</h1>
+<h1 align="center">Andrey Yanich — Student | Frontend Developer (React / Next.js / Node.js)</h1>
 
 
 
-# 👩‍💻  Обо мне
+# About Me
 
 ###
 
-<p align="left">Frontend-разработчик с фокусом на reactJS, Next.js. Имею опыт создания fullstack-приложений. Хорошо понимаю разницу между клиентским и серверным рендерингом (SSR), умею проектировать архитектуру приложений и работать с реальными базами данных (PostgreSQL, Drizzle, Prisma). Не использую моки там, где можно поднять полноценную БД.</p>
+<p align="left">Frontend Developer focused on ReactJS, Next.js, and Node.js. I have experience building full-stack applications. I deeply understand the difference between client-side and server-side rendering (SSR), and I am capable of designing application architecture and working with real databases (PostgreSQL, Drizzle, Prisma). I do not use mocks where a full database can be spun up..</p>
 
 
-# ⚙️ Технологии и инструменты
+## Skills
 
-### Frontend
-- Next.js (App Router)
-- TypeScript
-- Tailwind CSS, Nuxt UI, shadcn/ui
-- wNuxt 4 / Vue.js
+- **Frontend**: Next.js (App Router), TypeScript, Tailwind CSS, Nuxt UI, shadcn/ui, Nuxt 4 / Vue.js
+- **Forms & Validation**: React Hook Form, Zod
+- **Backend**: Prisma, PostgreSQL, Route Handlers / Server Actions (Next.js), Third-party API Integration (e.g., Telegram Bot API), Basic Authentication (NextAuth)
 
-### Формы и валидация
-- React Hook Form
-- Zod (строгая схема валидации)
+## Featured Projects
 
-### Backend (Next.js)
-- Prisma
-- PostgreSQL
-- Route Handlers / Server Actions (Next.js)
-- Интеграция сторонних API (например, Telegram Bot API)
-- Базовая аутентификация (NextAuth)
+### Split21 — Fullstack Web Application: (06/2026 - PRESENT)
+client GitHub
+server GitHub
+- **Stack:** React, Vite, Pinia, Node.js, Express, JWT, Groq API
 
-# 🧩 Проекты
+### ITL B2C E-commerce [GitHub](https://github.com/Kront2000/itl_andrey) [Demo](https://itl-andrey.vercel.app/) (4.2026 - 6.2026)
+- **Stack:** Nuxt 4, Vue, Nuxt UI, Tailwind.
 
-## 🍔 Food Delivery — Fullstack Web Application [GitHub](https://github.com/Kront2000/NextFoodDeliverySite) [Demo](https://nextfood-delivery-site.vercel.app/)
+### Food Delivery — Fullstack Web Application [GitHub](https://github.com/Kront2000/NextFoodDeliverySite) [Demo](https://nextfood-delivery-site.vercel.app/) (11.2025 - 2.2026)
+- **Stack:** Next.js (App Router), Tailwind, Zustand, Prisma, PostgreSQL, Cloudflare R2.
 
-Полноценное fullstack-приложение доставки еды.
 
-- **Стек:** Next.js (App Router), Tailwind, Zustand, Prisma, PostgreSQL, Cloudflare R2.
-
-- **Особенности:** хранение изображений в S3 (Cloudflare R2), интеграция с Telegram Bot API для моментального уведомления о заказах, валидация данных заказа (Zod + React Hook Form),
-  
----
-
-## 🛒 ITL B2C E-commerce [GitHub](https://github.com/Kront2000/itl_andrey) [Demo](https://itl-andrey.vercel.app/)
-
-Тестовое задание для стажировки. Разработка фронтенд части каталога товаров к готовой бэкенд части.
-
-- **Стек:** Nuxt 4, Vue, Nuxt UI, Tailwind.
-
-- **Особенности:** Сложная фильтрация полностью связанная с url, пагинация, SSR-рендеринг, динамический роутинг каталога и карточек товаров, адаптивная верстка, работа со сторонними API-эндпоинтами.
-
----
-
-# 🧠 Подход к разработке
-
-- Работаю с официальной документацией
-- Строю структуру проекта осознанно
-- Стараюсь разделять ответственность компонентов
-- Использую строгую типизацию
-- Понимаю разницу между клиентскими и серверными компонентами
-- Работаю с реальной БД, а не моками
-
-# ✉️ Контакты
-[💬 Написать в Telegram](https://t.me/KRONT2000)
+# Contacts
+[💬 Telegram](https://t.me/KRONT2000)
 
