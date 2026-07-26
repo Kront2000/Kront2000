@@ -26,8 +26,8 @@
 ## Featured Projects
 
 ### Split21 — Fullstack Web Application: (06/2026 - PRESENT)
-client GitHub
-server GitHub
+[client GitHub](https://github.com/Kront2000/split21react)
+[server GitHub](https://github.com/Kront2000/split21nodeServer)
 - **Stack:** React, Vite, Pinia, Node.js, Express, JWT, Groq API
 
 ### ITL B2C E-commerce [GitHub](https://github.com/Kront2000/itl_andrey) [Demo](https://itl-andrey.vercel.app/) (4.2026 - 6.2026)
